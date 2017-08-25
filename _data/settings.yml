@@ -1,0 +1,48 @@
+# Site settings
+ref: CSCC01
+title: Introduction to Software Engineering
+edition: Fall 2017
+description: Introduction to software development methodologies with an emphasis on agile development methods appropriate for rapidly-moving projects. Basic software development infrastructure; requirements elicitation and tracking; prototyping; basic project management; basic UML; introduction to software architecture; design patterns; testing.
+website: https://thierrysans.github.io/CSCC01/
+github: https://github.com/ThierrySans/CSCC01
+piazza: https://piazza.com/mail.utoronto.ca/fall2017/cscc01
+feedback: https://goo.gl/forms/88S6vIOtYESHBHm53
+
+instructor:
+  name: Thierry Sans
+  email: thierry.sans@utoronto.ca
+  website: https://thierrysans.github.io/
+  github: ThierrySans
+  twitter: ThierrySans
+  hours: TBD
+  location: IC-346
+  contact: Piazza only (no mail)
+  # hours: Thurs 10:00am-12:00pm
+
+assistants:
+    - name: TBD
+      role:  TBD
+      contact: TBD
+      hours: TBD
+      location: TBD
+  # - name: Colin Druery
+  #   role:  Teaching Assistant (PRA02)
+  #   contact: colin.druery@mail.utoronto.ca
+  #   location: IC-400A
+  #   hours: Wed 2:00pm-3:30pm
+  
+timings:
+    - section: LEC01 
+      time: Thursday 13:00-14:00
+      location: IC-220
+    - section: LEC01 
+      time: Friday 13:00-14:00
+      location: MW-160
+    - section: LEC02 
+      time: Wednesday 16:00-17:00
+      location: SW-319
+    - section: LEC02 
+      time: Thursday 16:00-17:00
+      location: IC-220
+        
+first: 20170904
