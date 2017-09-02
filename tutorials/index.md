@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /labs/
+permalink: /tutorials/
 ---
 
 <div class="week hrow">
@@ -11,7 +11,7 @@ permalink: /labs/
 </div>
 
 {% assign week_id = 0 %}
-{% for e in site.data.labs %}
+{% for e in site.data.tutorials %}
 <div class="week {% cycle "odd", "even" %}">
     {% if e.break %}
     <div class="week_id"></div>

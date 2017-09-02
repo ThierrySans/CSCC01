@@ -2,21 +2,21 @@
 layout: home
 ---
 
-## Course Objectives
+<!-- ## Course Objectives
 
 This course seeks to develop students who:
 
-1. 
+1.
 
 ## Learning outcomes
 
 Upon successful completion of this course, students will:
 
-1. 
+1.  -->
 
 ## Prerequisite
 
-For specific prerequisite requirements see the UTSC Registrar.
+It is your responsibility to ensure you have all prerequisites for the course. For specific prerequisite requirements see the UTSC Registrar.
 
 ## Course Staff
 
@@ -82,38 +82,34 @@ We encourage you to post questions regarding course materials and assignments on
 
 ## Marking Scheme
 
-The numeric marks of labs, assignments, project and final exam will be used to compute a composite numeric score that will determine your final letter grade for the course:
-
-- **Assignments:** TBD 
-
-- **Labs:** TBD
-
-- **Participation:** TBD
-
-- **Final Exam:** The final exam is comprehensive, 3 hours, and held during the exam period.
+The numeric marks of individual assignments, team assignments, project interviews, midterm and final exam will be used to compute a composite numeric score that will determine your final letter grade for the course:
 
 The weighting of course work is set as:
 
 <div class="grid">
     <div class="hrow row">
-        <div class="hcolumn column"></div>
-        <div class="column">Weight</div>
+        <div class="hcolumn column4"></div>
+        <div class="column4">Weight</div>
     </div>
     <div class="row">
-        <div class="hcolumn column">Assignments</div>
-        <div class="column">50%</div>
+        <div class="hcolumn column4">Individual Assignments</div>
+        <div class="column4">10%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column">Labs</div>
-        <div class="column">10%</div>
+        <div class="hcolumn column4">Team Assignments</div>
+        <div class="column4">30%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column">Participation</div>
-        <div class="column">5%</div>
+        <div class="hcolumn column4">Project Interviews</div>
+        <div class="column4">10%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column">Final Exam</div>
-        <div class="column">35%</div>
+        <div class="hcolumn column4">Midterm Exam</div>
+        <div class="column4">15%</div>
+    </div>
+    <div class="row">
+        <div class="hcolumn column4">Final Exam</div>
+        <div class="column4">35%</div>
     </div>
 </div>
 

@@ -1,0 +1,36 @@
+- week: No deliverable
+
+- week: Version Control with Git
+  type: individual
+    
+- week: Team Setup
+  type: team
+    
+- week: Product Management with Git
+  type: individual
+    
+- week: Project Requirement
+  type: team
+    
+- break: <span class="em">Spring Break</span>     
+    
+- week: Testing
+  type: individual
+    
+- week: Project Planning
+  type: team
+
+- week: Refactoring
+  type: individual
+    
+- week: Project Execution
+  type: team
+    
+- week: Design Patterns
+  type: individual
+
+- week: Product Validation
+  type: team
+  
+- week: Final Deliverable
+  type: team

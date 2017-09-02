@@ -2,8 +2,12 @@
   url: /lectures/
   absolute: False
 
-- title: Labs
-  url: /labs/
+- title: Tutorials
+  url: /tutorials/
+  absolute: False
+  
+- title: Course Work
+  url: /work/
   absolute: False
 
 - title: Piazza

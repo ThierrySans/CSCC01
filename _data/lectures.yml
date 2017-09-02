@@ -4,26 +4,26 @@
   readings:
       # - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
 
-- week: Agile Development
-
 - week: Requirements
 
-- week: Refinement
+- week: 
 
 - week: Planning
+
+- week: 
 
 - break: <span class="em">Spring Break</span>     
 
 - week: Execution
 
-- week: Verification and validation
+- week: 
 
-- week: Refactoring
+- week: Validation
 
-- week: Design patterns
-
-- week: Design Patterns
+- week: 
 
 - week: Design Patterns
 
+- week: 
+    
 - week: Project presentations
