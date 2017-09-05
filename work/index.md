@@ -6,9 +6,9 @@ permalink: /work/
 <div class="week hrow">
     <div class="week_id">Week</div>
     <div class="date">Deadline (5pm)</div>
-    <div class="topic">Handout</div>
-    <div class="topic">Rubric</div>
-	<div class="topic">Type</div>
+    <div class="topic">Team</div>
+    <div class="topic">Individual</div>
+	<div class="topic">Rubric</div>
 </div>
 
 {% assign week_id = 0 %}
@@ -22,18 +22,19 @@ permalink: /work/
     {% assign week_id = week_id | plus: 1 %}
     <div class="week_id">{{week_id}}</div>
     <div class="date"></div>
+    {% if e.type == 'individual' %}
+         <div class="topic"></div>
+    {% endif %}
     {% if e.handout %}
     <div class="topic"><a href="{{e.handout}}">{{e.week}}</a></div>
     {% else %}
     <div class="topic">{{e.week}}</div>
     {% endif %}
-    {% if e.rubric %}
-    <div class="notes"><a href="{{e.rubric}}">e.rubric</a></div>
-    {% else %}
-    <div class="notes"></div>
+    {% if e.type == 'team' %}
+         <div class="topic"></div>
     {% endif %}
-    {% if e.type %}
-    <div class="readings">{{e.type}}</div>
+    {% if e.rubric %}
+        <div class="topic"><a href="{{e.rubric}}">{{e.rubric}}</a></div>
     {% endif %}
     {% endif %}
 </div>
