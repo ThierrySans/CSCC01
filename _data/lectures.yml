@@ -1,8 +1,9 @@
 - week: Introduction
   notes:
-      # - Introduction: slides/D27-Introduction.pdf
+      - Course Introduction: 01/CSCC01-Intro.pdf
+      - Introduction to Git: 01/CSCC01-git.pdf
   readings:
-      # - Security Engineering: http://www.cl.cam.ac.uk/~rja14/Papers/SE-01.pdf
+      - Pro Git: https://git-scm.com/book/en/v2
 
 - week: Requirements
 
