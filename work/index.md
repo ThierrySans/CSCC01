@@ -34,7 +34,7 @@ permalink: /work/
          <div class="topic"></div>
     {% endif %}
     {% if e.rubric %}
-        <div class="topic"><a href="{{e.rubric}}">{{e.rubric}}</a></div>
+        <div class="topic"><a href="{{e.rubric}}">rubric</a></div>
     {% endif %}
     {% endif %}
 </div>

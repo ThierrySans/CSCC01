@@ -1,0 +1,27 @@
+- rubric: 'Quality of the work' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'Is the solution working properly?'
+        type: SelectOne
+        options: ['no, the work is missing', 'No, the solution file is identical to the starter code', 'No, the starter code has been modified but the solution is not working', 'Yes, the solution is working properly']
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment
+
+- rubric: 'Repository organization' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'Is the repository well organized'
+        type: SelectOne
+        options: ['generated files such as .class files are not included as required', 'filenames and path are as required', 'the commit has an appropriate message']
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment
