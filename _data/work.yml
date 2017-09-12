@@ -1,5 +1,7 @@
 - week: No deliverable
 
+- week: No deliverable
+
 - week: Version Control with Git
   type: individual
   handout: 01/
@@ -16,19 +18,16 @@
     
 - break: <span class="em">Reading Week</span>     
     
-- week: Testing
-  type: individual
-    
 - week: Project Planning
   type: team
 
-- week: Refactoring
-  type: individual
+- week: Design Patterns
+  type: individual  
     
 - week: Project Execution
   type: team
-    
-- week: Design Patterns
+  
+- week: Testing
   type: individual
 
 - week: Product Validation
