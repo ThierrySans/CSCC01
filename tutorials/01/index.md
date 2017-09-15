@@ -33,7 +33,7 @@ At this stage both `A` and `B` should have the same version of the code on their
 
 7. `A` pushes the changes to Github first.
 
-8. `B` tries to push the changes to Github but `git` requires to pull an update version from Github first. There will be some conflicts but they should be automatically merged by `git` and you is prompted to enter a merge message. To do so, type `i` (for insert), then type the message and finally `:wq` to save and close the code editor. Commit the changes and push to Github. 
+8. `B` tries to push the changes to Github but `git` requires to pull an update version from Github first. There will be some conflicts but they should be automatically merged by `git` and you is prompted to enter a merge message. To do so, type `i` (for insert), then type the message, press the `<esc>` key (to exit insert mode) and finally `:wq` to save and close the code editor. Commit the changes and push to Github. 
 
 9. `A` pulls the changes from Github. 
 
