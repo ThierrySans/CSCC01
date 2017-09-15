@@ -7,7 +7,7 @@
         
       - caption: 'Is the solution working properly?'
         type: SelectOne
-        options: ['no, the work is missing', 'No, the solution file is identical to the starter code', 'No, the starter code has been modified but the solution is not working', 'Yes, the solution is working properly']
+        options: ['no, the work is missing', 'no, the solution file is identical to the starter code', 'no, the starter code has been modified but the solution is not working', 'yes, the solution is working properly']
 
       - caption: 'Comments from the course staff ?'
         type: Comment
