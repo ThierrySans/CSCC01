@@ -34,7 +34,19 @@ permalink: /work/
          <div class="topic"></div>
     {% endif %}
     {% if e.rubric %}
-        <div class="topic"><a href="{{e.rubric}}">rubric</a></div>
+    <div class="topic">
+        <ul>
+            {% for r in e.rubric %}
+                {% for pair in r %}
+                    {% if pair[1] == nil %}
+                        <li>{{r}}</li>
+                    {% else %}
+                        <li><a href="{{pair[1]}}">{{pair[0]}}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </ul>
+    </div>
     {% endif %}
     {% endif %}
 </div>

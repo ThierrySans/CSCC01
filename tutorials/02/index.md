@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /tutorials/01/
+permalink: /tutorials/02/
 ---
 
 # Dealing with conflicts on Git

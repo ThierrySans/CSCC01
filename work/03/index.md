@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /work/01/
+permalink: /work/03/
 ---
 
 # Individual Assignment 1
