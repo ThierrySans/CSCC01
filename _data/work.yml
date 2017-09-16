@@ -10,6 +10,10 @@
     
 - week: Team Setup
   type: team
+  handout: 04/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-D1
+      - interview: https://grademy.work/rubric?id=C01F17-I1
     
 - week: Product Management with Git
   type: individual

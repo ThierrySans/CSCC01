@@ -1,0 +1,50 @@
+- rubric: Project Interview
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 20
+      - caption: "The answer to question #1 is"
+        type: SelectOne
+        options:
+            - missing
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: "The answer to question #2 is"
+        type: SelectOne
+        options:
+            - missing
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: "The answer to question #3 is"
+        type: SelectOne
+        options:
+            - missing
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: "The answer to question #4 is"
+        type: SelectOne
+        options:
+            - missing
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: "The answer to question #5 is"
+        type: SelectOne
+        options:
+            - missing
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: The overall performance of the team is
+        type: SelectOne
+        options:
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: Comments from the course staff
+        type: Comment
+

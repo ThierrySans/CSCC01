@@ -1,0 +1,106 @@
+- rubric: Team Introduction
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 20
+      - caption: The report contains
+        type: SelectAll
+        options:
+            - "the team's name"
+            - "the team's logo"
+            - "the team's picture"
+      - caption: "The team's goals are"
+        type: SelectOne
+        options:
+            - missing
+            - marginal
+            - adequate
+            - excellent
+      - caption: "The team's strengths are"
+        type: SelectOne
+        options:
+              - missing
+              - marginal
+              - adequate
+              - excellent
+      - caption: "The team members' biographies are"
+        type: SelectOne
+        options:
+              - missing completely
+              - missing for the most part
+              - marginal for the most part
+              - adequate but somehow inconsistent (content, writing style) 
+              - adequate overall
+              - excellent overall
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Team agreement
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 20
+        
+      - caption: The methods of communications are
+        type: SelectOne
+        options:
+              - missing
+              - incomplete
+              - adequate
+              - excellent
+              
+      - caption: The meetings setup is 
+        type: SelectOne
+        options:
+              - missing
+              - incomplete
+              - adequate
+              - excellent
+    
+      - caption: The team work setup (including version control, division of work, submission of deliverables, contengency planning) is of 
+        type: SelectOne
+        options:
+              - missing
+              - incomplete
+              - adequate
+              - excellent        
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the deliverable
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 5
+        
+      - caption: Quality of the report
+        type: SelectAll
+        options:
+            - the report is clear and well presented
+            - the writing style is clear and consistent throughout the report
+            - the report does not contain excessive spelling and grammar typos
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the repository organization
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 5
+        
+      - caption: "On Github,"
+        type: SelectAll
+        options: 
+            - the team repository does not contain superfluous files
+            - directory and files are well organized
+            - the README file has been updated with the latest updates
+            - the latests commits have appropriate messages
+
+      - caption: Comments from the course staff
+        type: Comment
