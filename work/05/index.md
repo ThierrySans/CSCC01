@@ -7,7 +7,7 @@ permalink: /work/05/
 
 In this assignment, make sure to adopt the best practices for creating development branches and merging these development branches into the master branch as seen in class/lab. 
 
-1. if you have not done so yet, clone the course repository and your personal repository. In your personal repository, copy the starter code (`/work/05/src/turtle.py`) from the course repository into yours (`/02/src/turtle.java`). Before starting to work, look up the reference to 
+1. copy the starter code (`/work/05/src/turtle.py`) from the course repository into yours (`/02/src/turtle.py`). Before starting to work, look up the reference to 
 ["turtles all the way down!"](https://en.wikipedia.org/wiki/Turtles_all_the_way_down). 
 
 2. create a branch called `bugfix`, test this file and fix the bugs.
