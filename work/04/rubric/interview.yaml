@@ -1,9 +1,24 @@
-- rubric: Project Interview
+- rubric: Team Performance
   questions:
-      
       - caption: Score for this rubric
         type: Points
         max: 20
+      - caption: "Who is present to the meeting"
+        type: SelectOne
+        options:
+            - more than one person is missing
+            - one person is missing
+            - everyone is present
+      - caption: The overall performance of the team is
+        type: SelectOne
+        options:
+            - unsatisfying
+            - adequate
+            - excellent
+      - caption: Comments from the course staff
+        type: Comment
+- rubric: Individual Questions
+  questions:
       - caption: "The answer to question #1 is"
         type: SelectOne
         options:
@@ -39,12 +54,5 @@
             - unsatisfying
             - adequate
             - excellent
-      - caption: The overall performance of the team is
-        type: SelectOne
-        options:
-            - unsatisfying
-            - adequate
-            - excellent
-      - caption: Comments from the course staff
-        type: Comment
+
 

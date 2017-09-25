@@ -59,7 +59,7 @@
               - adequate
               - excellent
     
-      - caption: The team work setup (including version control, division of work, submission of deliverables, contengency planning) is of 
+      - caption: The team work setup (including version control, division of work, submission of deliverables, contengency planning) is 
         type: SelectOne
         options:
               - missing

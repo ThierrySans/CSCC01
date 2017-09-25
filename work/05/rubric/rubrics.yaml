@@ -1,0 +1,49 @@
+- rubric: 'Bug fix' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'Is the solution working properly?'
+        type: SelectOne
+        options: ['no, the work is missing', 'no, the solution file is identical to the starter code', 'no, the starter code has been modified but the solution is not working', 'yes, the solution is working properly']
+        
+      - caption: 'Branch management'
+        type: SelectAll
+        options: ['the fix has been committed to the master branch directly', 'the fix has been committed to the branch first', 'the branch has been merged into master but without following the best practices', 'the branch has been merged into master following the best practices']
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment
+
+- rubric: 'Python3 support' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'Is the solution working properly?'
+        type: SelectOne
+        options: ['no, the work is missing', 'no, the solution file is identical to the starter code', 'no, the starter code has been modified but the solution is not working', 'yes, the solution is working properly']
+        
+      - caption: 'Branch management'
+        type: SelectAll
+        options: ['the fix has been committed to the master branch directly', 'the fix has been committed to the branch first', 'the branch has been merged into master but without following the best practices', 'the branch has been merged into master following the best practices', 'the conflicts have been solved']
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment
+
+- rubric: 'Repository organization' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'Is the repository well organized'
+        type: SelectOne
+        options: ['generated files such as .class files are not included as required', 'filenames and path are as required', 'the commit has an appropriate message']
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment

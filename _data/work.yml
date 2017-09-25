@@ -17,6 +17,9 @@
     
 - week: Product Management with Git
   type: individual
+  handout: 05/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-A2
     
 - week: Project Requirement
   type: team

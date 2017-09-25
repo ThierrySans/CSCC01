@@ -9,6 +9,8 @@ permalink: /work/03/
 
 It is recommended to get a local copy of the following three Github repositories: 
 
+
+
 - **the CSCC01 course repository** (public repo - read only)
 
     In this repository you will find the course materials and starter code for the different deliverables. To clone this repository:
@@ -38,8 +40,8 @@ It is recommended to get a local copy of the following three Github repositories
 
 ## Instructions
 
-1.1 If you have not done so yet, clone the course repository and your personal repository. In your personal repository, copy the starter code (`/work/01/src/MergeSort.java`) from the course repository into yours (`/01/src/MergeSort.java`).  
+1. If you have not done so yet, clone the course repository and your personal repository. In your personal repository, copy the starter code (`/work/03/src/MergeSort.java`) from the course repository into yours (`/01/src/MergeSort.java`).  
 
-1.2 Test this file and fix the bugs
+2. Test this file and fix the bugs
 
-1.3 Commit the bug fix, with an appropriate commit message. Push. 
+3. Commit the bug fix, with an appropriate commit message. Push. 
