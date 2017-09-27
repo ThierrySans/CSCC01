@@ -20,7 +20,7 @@
         max: 5
         
       - caption: 'Is the repository well organized'
-        type: SelectOne
+        type: SelectAll
         options: ['generated files such as .class files are not included as required', 'filenames and path are as required', 'the commit has an appropriate message']
 
       - caption: 'Comments from the course staff ?'
