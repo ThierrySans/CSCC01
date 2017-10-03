@@ -20,6 +20,8 @@
   handout: 05/
   rubric: 
       - deliverable: https://grademy.work/rubric?id=C01F17-A2
+
+- break: <span class="em">Reading Week</span>    
     
 - week: Project Requirement
   type: team
@@ -27,8 +29,6 @@
   # rubric:
   #   - deliverable: https://grademy.work/rubric?id=C01F17-D2
   #   - interview: https://grademy.work/rubric?id=C01F17-I2
-    
-- break: <span class="em">Reading Week</span>     
     
 - week: Project Planning
   type: team
