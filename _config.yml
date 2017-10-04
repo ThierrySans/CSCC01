@@ -3,5 +3,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-
+  - "*.key"
+  - "*.pages"
+  - "*.pptx"
 
