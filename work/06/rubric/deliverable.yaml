@@ -1,71 +1,112 @@
-- rubric: Team Introduction
+- rubric: Personas
   questions:
       
       - caption: Score for this rubric
         type: Points
-        max: 20
-      - caption: The report contains
+        max: 40
+
+      - caption: The personas contains informations such as
         type: SelectAll
         options:
-            - "the team's name"
-            - "the team's logo"
-            - "the team's picture"
-      - caption: "The team's goals are"
+            - "name, gender, age"
+            - "work description"
+            - "working environment"
+            - "skills"
+            - "technology currently used"
+            - "attitude towards technology in general"
+
+      - caption: "The level of details is "
+        type: SelectOne
+        options:
+            - marginal, many important details are missing
+            - inadequate, too many irrelevant details
+            - adequate, good ammount of details
+            - excellent, many relevant details
+
+      - caption: "The choice of personas"
+        type: SelectOne
+        options:
+              - poor, at least one important type of user has not been captured
+              - marginal, the differences between the personas is not signficant in some cases
+              - marginal, most of the system requirements captured by these personas are either not important or irrelevant  
+              - good, the personas capture the most important types of users and their requirements
+              - excellent, the personas truly reflect different system requirements that are important and relevant
+
+      - caption: The presentation and the formatting of the personas is"
+        type: SelectOne
+        options:
+            - poor
+            - marginal
+            - adequate
+            - execellent
+
+      - caption: "Overall, the quality of the work on the personas is"
         type: SelectOne
         options:
             - missing
             - marginal
             - adequate
             - excellent
-      - caption: "The team's strengths are"
-        type: SelectOne
-        options:
-              - missing
-              - marginal
-              - adequate
-              - excellent
-      - caption: "The team members' biographies are"
-        type: SelectOne
-        options:
-              - missing completely
-              - missing for the most part
-              - marginal for the most part
-              - adequate but somehow inconsistent (content, writing style) 
-              - adequate overall
-              - excellent overall
+
       - caption: Comments from the course staff
         type: Comment
 
-- rubric: Team agreement
+- rubric: User stories
   questions:
       
       - caption: Score for this rubric
         type: Points
-        max: 20
-        
-      - caption: The methods of communications are
+        max: 40
+      
+      - caption: "The choice of user stories "
         type: SelectOne
         options:
-              - missing
-              - incomplete
-              - adequate
-              - excellent
-              
-      - caption: The meetings setup is 
+            - poor, many important features are missing
+            - marginal, some important features are missing
+            - marginal, many features are either not important or irrelevant  
+            - adequate, most of the user story capture the most important and relevant features
+            - excellent, each user story addresses a relevant feature
+      
+      - caption: "The level of details is "
         type: SelectOne
         options:
-              - missing
-              - incomplete
-              - adequate
-              - excellent
-    
-      - caption: The team work setup (including version control, division of work, submission of deliverables, contengency planning) is 
+            - marginal, many important details are missing
+            - inadequate, too many irrelevant details
+            - adequate, good ammount of details
+            - excellent, many relevant details
+          
+      - caption: "The triaging of the user stories is"
         type: SelectOne
         options:
-              - missing
-              - incomplete
-              - adequate
-              - excellent        
+           - poor, the sequence does not make sense
+           - marginal, several important features have a lower priority than less important ones
+           - marginal, several dependencies have not been correctly evaluated
+           - adequate, the sequence makes sense for the most part
+           - excellent, the user stories are perfectly sequenced
+
+      - caption: The cohesion between personas and user stories is
+        type: SelectOne
+        options:
+              - poor, the user stories do not reflect at all the personas requirements
+              - marginal, the user stories fail to capture the most important personas requirements
+              - adequate, the user stories captures most of the personas requirements
+              - excellent, the user stories completly captures the personas requirements
+
+      - caption: The presentation and the formatting of the user stories is
+        type: SelectOne
+        options:
+            - poor
+            - marginal
+            - adequate
+            - execellent
+
+      - caption: "Overall, the quality of the user stories is"
+        type: SelectOne
+        options:
+            - missing
+            - marginal
+            - adequate
+            - excellent
 
       - caption: Comments from the course staff
         type: Comment
@@ -75,7 +116,7 @@
       
       - caption: Score for this rubric
         type: Points
-        max: 5
+        max: 10
         
       - caption: Quality of the report
         type: SelectAll
@@ -92,7 +133,7 @@
       
       - caption: Score for this rubric
         type: Points
-        max: 5
+        max: 10
         
       - caption: "On Github,"
         type: SelectAll
