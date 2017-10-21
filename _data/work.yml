@@ -33,6 +33,9 @@
 - week: Project Planning
   type: team
   handout: 07/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-D3
+      - interview: https://grademy.work/rubric?id=C01F17-I3
 
 - week: Design Patterns
   type: individual  
