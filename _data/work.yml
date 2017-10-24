@@ -38,7 +38,10 @@
       - interview: https://grademy.work/rubric?id=C01F17-I3
 
 - week: Design Patterns
-  type: individual  
+  type: individual
+  handout: 08/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-A3
     
 - week: Project Execution
   type: team
