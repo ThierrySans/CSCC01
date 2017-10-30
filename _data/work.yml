@@ -37,7 +37,7 @@
       - deliverable: https://grademy.work/rubric?id=C01F17-D3
       - interview: https://grademy.work/rubric?id=C01F17-I3
 
-- week: Design Patterns
+- week: Testing
   type: individual
   handout: 08/
   rubric: 
@@ -45,8 +45,12 @@
     
 - week: Project Execution
   type: team
+  handout: 09/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-D4
+      - interview: https://grademy.work/rubric?id=C01F17-I4
   
-- week: Testing
+- week: Design Patterns
   type: individual
 
 - week: Product Validation
