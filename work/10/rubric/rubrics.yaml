@@ -1,0 +1,49 @@
+- rubric: 'Quality of the implementation' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'How is the quality of the implementation?'
+        type: SelectOne
+        options: 
+            - missing 
+            - marginal
+            - adequate
+            - excellent
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment
+        
+- rubric: 'Quality of the testing' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'How is the quality of the testing?'
+        type: SelectOne
+        options: 
+            - missing
+            - marginal
+            - adequate
+            - excellent
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment
+
+- rubric: 'Repository organization' 
+  questions:
+      
+      - caption: 'Score for this rubric'
+        type: Points
+        max: 5
+        
+      - caption: 'Is the repository well organized'
+        type: SelectOne
+        options: ['generated files files are not included as required', 'filenames and path are as required', 'the commit has an appropriate message']
+
+      - caption: 'Comments from the course staff ?'
+        type: Comment

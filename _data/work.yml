@@ -52,6 +52,9 @@
   
 - week: Design Patterns
   type: individual
+  handout: 10/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-A4
 
 - week: Product Validation
   type: team
