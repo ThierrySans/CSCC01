@@ -34,18 +34,20 @@
       - Execution and Progress Tracking: 06/CSCC01-Execution.pdf
       - execution-exercise.pdf : 06/execution-exercise.pdf
 
-- week: 
+- week: Midterm review
   notes:
       - F17 midterm: 07/CSCC01-F16-midterm.pdf 
 
-- week: Validation
+- week: Verification and Validation
   notes:
       - Verification and Validation: 08/CSCC01-VerificationValidation.pdf
 
-- week: 
+- week: Code Review
+  notes:
+      - Code: 09/CSCC01-CodeReview.pdf
+
+- week: Design Principles
 
 - week: Design Patterns
-
-- week: 
     
-- week: Project presentations
+- week: Project delivery and presentations
