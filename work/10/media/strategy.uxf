@@ -4,27 +4,27 @@
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>270</x>
+      <x>300</x>
       <y>60</y>
-      <w>90</w>
+      <w>120</w>
       <h>50</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>30;30;70;30</additional_attributes>
+    <additional_attributes>30;30;100;30</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Class</type>
     <coordinates>
       <x>10</x>
       <y>60</y>
-      <w>290</w>
+      <w>320</w>
       <h>70</h>
     </coordinates>
     <panel_attributes>PriceCalculator
 --
 --
 + PriceCalculator(discount: Discount)
-+ getTotalPrice(items: Priced[]): double
++ getTotalPrice(items: List&lt;Priced&gt;): double
 
 </panel_attributes>
     <additional_attributes/>
@@ -52,22 +52,22 @@
     <coordinates>
       <x>260</x>
       <y>100</y>
-      <w>190</w>
+      <w>250</w>
       <h>110</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>170;30;30;90</additional_attributes>
+    <additional_attributes>230;30;30;90</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>430</x>
+      <x>490</x>
       <y>100</y>
-      <w>190</w>
+      <w>130</w>
       <h>110</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>30;30;170;90</additional_attributes>
+    <additional_attributes>30;30;110;90</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Class</type>
@@ -93,7 +93,7 @@
   <element>
     <type>com.baselet.element.old.element.Class</type>
     <coordinates>
-      <x>340</x>
+      <x>400</x>
       <y>60</y>
       <w>330</w>
       <h>70</h>
@@ -172,7 +172,7 @@ Discount
   <element>
     <type>com.baselet.element.old.element.Note</type>
     <coordinates>
-      <x>690</x>
+      <x>780</x>
       <y>80</y>
       <w>260</w>
       <h>90</h>
@@ -190,11 +190,11 @@ bg=white</panel_attributes>
     <coordinates>
       <x>730</x>
       <y>140</y>
-      <w>90</w>
+      <w>180</w>
       <h>150</h>
     </coordinates>
     <panel_attributes>lt=-</panel_attributes>
-    <additional_attributes>70;30;30;130</additional_attributes>
+    <additional_attributes>160;30;30;130</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Class</type>
@@ -238,8 +238,8 @@ bg=white</panel_attributes>
 - price: double
 - isbn: String
 --
-+ Item(price: double, 
-            isbn: String)
++ Product(isbn: String,  
+          price: double)
 
 </panel_attributes>
     <additional_attributes/>
