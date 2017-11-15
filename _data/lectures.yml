@@ -47,6 +47,9 @@
       - Code: 09/CSCC01-CodeReview.pdf
 
 - week: Design Principles
+  notes:
+      - UML: 10/CSCC01-UML.pdf
+      - UML: 10/CSCC01-SOLID.pdf
 
 - week: Design Patterns
     
