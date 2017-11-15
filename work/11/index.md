@@ -31,7 +31,7 @@ By now, you should have the most part of your product working. This means that y
 
 The source code should come with clear instructions about how to build and run your code. The course staff will run these working releases and check whether they match the product and sprint backlogs. Moreover, you will be asked to build and run your code from a fresh checkout of your Github repository during the interview. 
 
-## Testing
+## Verification and Validation
 
 You will need to convince us (and yourselves!) that it works. In this deliverable, every piece of code that goes into the product needs to be tested and inspected. You also need to make sure you have built the system the client wants.
 
@@ -50,7 +50,7 @@ Similarly to previous deliverables, feel free to choose how to organize and pres
 
 ## Submission
 
-Submit the **product backlog**, the **sprint Backlog(s)** and the **source code** by pushing them into your team’s GitHub repository by the due date and time. In addition, the source code of your product should also be on your team’s GitHub repository. Make sure to include instructions about how to build and execute your product. The TA might will likely take a look at your code and execute it to make sure it matches your product and sprint backlogs. 
+Submit the **product backlog**, the **sprint Backlog(s)**, the **source code** and all of your **verification/validation activities** by pushing them into your team’s GitHub repository by the due date and time. In addition, the source code of your product should also be on your team’s GitHub repository. Make sure to include instructions about how to build and execute your product. The TA might will likely take a look at your code and execute it to make sure it matches your product and sprint backlogs. 
 
 Additionally, update your team’s GitHub repository README file to reflect the progress on your project. 
 

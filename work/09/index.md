@@ -48,4 +48,4 @@ Additionally, update your team’s GitHub repository README file to reflect the 
 
 There is no deliverable for this part. 
 
-As a team, you should start tracking your progress in each sprint. After a sprint, you should reflect on your progress and take then into considerations when planning for the next sprint.  
+As a team, you should start thinking about how you are going to verify and validate your product. 
