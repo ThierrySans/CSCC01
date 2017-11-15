@@ -36,7 +36,7 @@ The source code should come with clear instructions about how to build and run y
 You will need to convince us (and yourselves!) that it works. In this deliverable, every piece of code that goes into the product needs to be tested and inspected. You also need to make sure you have built the system the client wants.
 
 - **verification:** all your unit tests (based on the product design)
-- **validation:(()) all of your acceptance tests (based on user stories)
+- **validation:** all of your acceptance tests (based on user stories)
 - **code review strategy:** your team's guideline to conduct the code review
 - **code review summary:** a completed code inspection summary from each team member
 - **code review debriefing meeting:** a 3-5 minutes video of your code review debriefing meeting where each team member gives general recommendations to the team on how to improve the quality of the development.
