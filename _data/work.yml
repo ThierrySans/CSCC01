@@ -58,6 +58,10 @@
 
 - week: Product Validation
   type: team
+  handout: 11/
+  rubric: 
+      - deliverable: https://grademy.work/rubric?id=C01F17-D5
+      - interview: https://grademy.work/rubric?id=C01F17-I5
   
 - week: Final Deliverable
   type: team
