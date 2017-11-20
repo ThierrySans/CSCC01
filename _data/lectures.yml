@@ -28,6 +28,7 @@
       - planning-exercise.pdf : 05/planning-exercise.pdf
 
 - break: <span class="em">Reading Week</span>     
+    - 
 
 - week: Execution
   notes:
@@ -49,8 +50,10 @@
 - week: Design Principles
   notes:
       - UML: 10/CSCC01-UML.pdf
-      - UML: 10/CSCC01-SOLID.pdf
+      - SOLID: 10/CSCC01-SOLID.pdf
 
 - week: Design Patterns
+  notes:
+      - Design Patterns: 11/CSCC01-DesignPatterns.pdf
     
 - week: Project delivery and presentations
