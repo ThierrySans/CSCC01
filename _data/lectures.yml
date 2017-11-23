@@ -56,4 +56,7 @@
   notes:
       - Design Patterns: 11/CSCC01-DesignPatterns.pdf
     
-- week: Project delivery and presentations
+- week: Refactoring
+  notes:
+      - Code Smells: 12/CSCC01-CodeSmells.pdf
+      - Refactoring: 12/CSCC01-Refactoring.pdf
