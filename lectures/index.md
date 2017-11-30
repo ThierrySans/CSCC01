@@ -23,6 +23,7 @@ permalink: /lectures/
         <div class="week_id">{{week_id}}</div>
         <div class="date"></div>
     	<div class="topic">{{e.week}}</div>
+    {% endif %}
         <div class="notes">
                         <ul>
                             {% for note in e.notes %}
@@ -49,7 +50,6 @@ permalink: /lectures/
     					{% endfor %}
                         </ul>
         </div>
-    {% endif %}
     
 </div>
 {% endfor %}

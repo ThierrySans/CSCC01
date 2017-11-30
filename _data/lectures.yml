@@ -28,7 +28,6 @@
       - planning-exercise.pdf : 05/planning-exercise.pdf
 
 - break: <span class="em">Reading Week</span>     
-    - 
 
 - week: Execution
   notes:
@@ -60,3 +59,7 @@
   notes:
       - Code Smells: 12/CSCC01-CodeSmells.pdf
       - Refactoring: 12/CSCC01-Refactoring.pdf
+      
+- break: <span class="em">Final Exam </span>
+  notes:
+      - F17 final: final/CSCC01-F16-final.pdf      
