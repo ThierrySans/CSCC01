@@ -82,7 +82,8 @@ We encourage you to post questions regarding course materials and assignments on
 
 ## Marking Scheme
 
-The numeric marks of individual assignments, team assignments, project interviews, midterm and final exam will be used to compute a composite numeric score that will determine your final letter grade for the course:
+
+The numeric marks of the labs, assignments, project and final exam will be used to compute a composite numeric score that will determine your final letter grade for the course.
 
 The weighting of course work is set as:
 
@@ -92,16 +93,12 @@ The weighting of course work is set as:
         <div class="column4">Weight</div>
     </div>
     <div class="row">
-        <div class="hcolumn column4">Individual Assignments</div>
-        <div class="column4">10%</div>
+        <div class="hcolumn column4">Labs (8 bests out of 10)</div>
+        <div class="column4">16%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column4">Team Assignments</div>
-        <div class="column4">30%</div>
-    </div>
-    <div class="row">
-        <div class="hcolumn column4">Project Interviews</div>
-        <div class="column4">10%</div>
+        <div class="hcolumn column4">Project</div>
+        <div class="column4">34%</div>
     </div>
     <div class="row">
         <div class="hcolumn column4">Midterm Exam</div>

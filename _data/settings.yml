@@ -1,12 +1,12 @@
 # Site settings
 ref: CSCC01
 title: Introduction to Software Engineering
-edition: Fall 2017
+edition: Fall 2018
 description: This course is an introduction to software development methodologies with an emphasis on agile development methods appropriate for rapidly-moving projects. We will cover basic software development infrastructure, requirements elicitation and tracking, prototyping, basic project management, basic software modelling, introduction to software architecture, object-oriented design and design patterns, testing.
 website: https://thierrysans.github.io/CSCC01/
 github: https://github.com/ThierrySans/CSCC01
-piazza: https://piazza.com/mail.utoronto.ca/fall2017/cscc01
-feedback: https://goo.gl/forms/88S6vIOtYESHBHm53
+piazza: https://piazza.com/mail.utoronto.ca/fall2018/cscc01
+feedback: https://goo.gl/forms/h1AE6TSd9scnLTK63
 
 instructor:
   name: Thierry Sans
@@ -14,50 +14,59 @@ instructor:
   website: https://thierrysans.github.io/
   github: ThierrySans
   twitter: ThierrySans
-  hours: Monday 1pm-3pm
+  hours: TBD #Monday 1pm-3pm
   location: IC-346
-  contact: Piazza only (no mail)
+  contact: Piazza only (no email)
   # hours: Thurs 10:00am-12:00pm
 
+# https://www.albionresearch.com/misc/obfuscator.php
 assistants:
-    - name: Brandon Ramoudith
-      role:  TA
-      contact: '&#098;&#114;&#097;&#110;&#100;&#111;&#110;&#046;&#114;&#097;&#109;&#111;&#117;&#100;&#105;&#116;&#104;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
-      hours: by appointment
-      location: ''
-    - name: Brian Chen
-      role:  TA
-      contact: '&#098;&#114;&#105;&#097;&#110;&#121;&#120;&#046;&#099;&#104;&#101;&#110;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
-      hours: by appointment
-      location: ''
-    - name: KC Udonsi 
-      role:  TA
-      contact: '&#107;&#099;&#046;&#117;&#100;&#111;&#110;&#115;&#105;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
-      hours: by appointment
-      location: ''
-    - name: Vino Tharmalenkam
-      role:  TA
-      contact: '&#118;&#105;&#110;&#111;&#046;&#116;&#104;&#097;&#114;&#109;&#097;&#108;&#101;&#110;&#107;&#097;&#109;&#064;&#109;&#097;&#105;&#108;&#046;&#117;&#116;&#111;&#114;&#111;&#110;&#116;&#111;&#046;&#099;&#097;'
-      hours: by appointment
-      location: ''
   # - name: Colin Druery
   #   role:  Teaching Assistant (PRA02)
   #   contact: colin.druery@mail.utoronto.ca
   #   location: IC-400A
   #   hours: Wed 2:00pm-3:30pm
+  - name: Ben Cooper
+    role: TUT01
+    contact: ben.cooper@mail.utoronto.ca
+    hours: by appointment
+  - name: Brian Yu Xiang Chen
+    role: TUT02
+    contact: brianyx.chen@mail.utoronto.ca
+    hours: by appointment
+  - name: Vino Tharmalenkam
+    role: TUT03
+    contact: vino.tharmalenkam@mail.utoronto.ca
+    hours: by appointment
+  - name: Saba Kiaei
+    role: TUT04
+    contact: saba.kiaei@mail.utoronto.ca
+    hours: by appointment
   
 timings:
     - section: LEC01 
       time: Thursday 13:00-14:00
-      location: IC-220
+      location: HW-215
     - section: LEC01 
       time: Friday 13:00-14:00
       location: MW-160
     - section: LEC02 
       time: Wednesday 16:00-17:00
-      location: SW-319
+      location: HW-215
     - section: LEC02 
       time: Thursday 16:00-17:00
-      location: IC-220
+      location: HW-215
+    - section: TUT01 
+      time: Tuesday 11:00-12:00
+      location: BV-473
+    - section: TUT02 
+      time: Tuesday 12:00-13:00
+      location: BV-473
+    - section: TUT03 
+      time: Tuesday 11:00-12:00
+      location: BV-473
+    - section: TUT04 
+      time: Tuesday 10:00-11:00
+      location: BV-473
         
-first: 20170904
+first: 20180903

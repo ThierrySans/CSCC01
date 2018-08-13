@@ -1,65 +1,71 @@
 - week: Introduction
   notes:
-      - Course Introduction: 01/CSCC01-Intro.pdf
-      - Introduction to Git: 01/CSCC01-git.pdf
+      # - Course Introduction: 01/CSCC01-Intro.pdf
+      # - Introduction to Git: 01/CSCC01-git.pdf
   readings:
-      - Pro Git: https://git-scm.com/book/en/v2
+      # - Pro Git: https://git-scm.com/book/en/v2
 
 - week: Team Work
   notes:
-      - Team Work: 02/CSCC01-TeamWork.pdf
-      - Project Introduction: 02/CSCC01-ProjectIntroduction.pdf
+      # - Team Work: 02/CSCC01-TeamWork.pdf
+      # - Project Introduction: 02/CSCC01-ProjectIntroduction.pdf
 
-- week: Personas
+- week: Project Requirements
   notes:
-      - Requirements: 03/CSCC01-Requirements.pdf
-      - personas-exercise.pdf : 03/personas-exercice.pdf
-      - grademywork.pdf: 03/grademywork.pdf
+      # - Requirements: 03/CSCC01-Requirements.pdf
+      # - personas-exercise.pdf : 03/personas-exercice.pdf
+      # - grademywork.pdf: 03/grademywork.pdf
 
-- week: User Stories
+- week: Project Planning and Executiob
   notes:
-      - userstories-exercise.pdf : 04/userstories-exercise.pdf
-      - grademywork.pdf: 03/grademywork.pdf
+      # - userstories-exercise.pdf : 04/userstories-exercise.pdf
+      # - grademywork.pdf: 03/grademywork.pdf
 
-- week: Planning
+- week: Product Management
   notes:
-      - Software Management Process: 05/CSCC01-ProcessManagement.pdf
-      - tasks-exercise.pdf : 05/tasks-exercise.pdf
-      - planning-exercise.pdf : 05/planning-exercise.pdf
+      # - Software Management Process: 05/CSCC01-ProcessManagement.pdf
+      # - tasks-exercise.pdf : 05/tasks-exercise.pdf
+      # - planning-exercise.pdf : 05/planning-exercise.pdf
 
 - break: <span class="em">Reading Week</span>     
 
-- week: Execution
-  notes:
-      - Execution and Progress Tracking: 06/CSCC01-Execution.pdf
-      - execution-exercise.pdf : 06/execution-exercise.pdf
-
-- week: Midterm review
-  notes:
-      - F17 midterm: 07/CSCC01-F16-midterm.pdf 
-
-- week: Verification and Validation
-  notes:
-      - Verification and Validation: 08/CSCC01-VerificationValidation.pdf
-
-- week: Code Review
-  notes:
-      - Code: 09/CSCC01-CodeReview.pdf
-
 - week: Design Principles
   notes:
-      - UML: 10/CSCC01-UML.pdf
-      - SOLID: 10/CSCC01-SOLID.pdf
+      # - Execution and Progress Tracking: 06/CSCC01-Execution.pdf
+      # - execution-exercise.pdf : 06/execution-exercise.pdf
 
-- week: Design Patterns
+# - week: Midterm review
+#   notes:
+#       - F17 midterm: 07/CSCC01-F16-midterm.pdf
+
+- week: Design for Change
   notes:
-      - Design Patterns: 11/CSCC01-DesignPatterns.pdf
-    
+      # - Verification and Validation: 08/CSCC01-VerificationValidation.pdf
+
+- week: Testing and Validation
+  notes:
+      # - Code: 09/CSCC01-CodeReview.pdf
+
+- week: Design for Reuse
+  notes:
+      # - UML: 10/CSCC01-UML.pdf
+      # - SOLID: 10/CSCC01-SOLID.pdf
+
 - week: Refactoring
-  notes:
-      - Code Smells: 12/CSCC01-CodeSmells.pdf
-      - Refactoring: 12/CSCC01-Refactoring.pdf
+
+- week: DevOps
+
+- week: Project Presentations
+
+# - week: Design Patterns
+#   notes:
+#       - Design Patterns: 11/CSCC01-DesignPatterns.pdf
+    
+# - week: Refactoring
+#   notes:
+#       - Code Smells: 12/CSCC01-CodeSmells.pdf
+#       - Refactoring: 12/CSCC01-Refactoring.pdf
       
-- break: <span class="em">Final Exam </span>
-  notes:
-      - F17 final: final/CSCC01-F16-final.pdf      
+# - break: <span class="em">Final Exam </span>
+#   notes:
+#       - F17 final: final/CSCC01-F16-final.pdf
