@@ -1,9 +1,9 @@
 - week: Introduction
   notes:
       - Course Introduction: 01/CSCC01-Intro.pdf
-      # - Introduction to Git: 01/CSCC01-git.pdf
+      - Introduction to Git: 01/CSCC01-git.pdf
   readings:
-      # - Pro Git: https://git-scm.com/book/en/v2
+      - Pro Git: https://git-scm.com/book/en/v2
 
 - week: Team Work
   notes:
