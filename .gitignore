@@ -1,6 +1,8 @@
 # Generated static site
 _site
 
+*.old
+
 # OS Files
 Thumbs.db
 .DS_Store
