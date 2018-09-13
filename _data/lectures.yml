@@ -8,19 +8,30 @@
 
 - week: Team Work
   notes:
-      # - Team Work: 02/CSCC01-TeamWork.pdf
+      - Team Work: 02/CSCC01-TeamWork.pdf
       # - Project Introduction: 02/CSCC01-ProjectIntroduction.pdf
+  readings:
+      - SDLC Models Explained: https://medium.com/existek/sdlc-models-explained-agile-waterfall-v-shaped-iterative-spiral-e3f012f390c5
+      - 10 Key Principles of Agile Development: https://www.101ways.com/category/10-key-principles-of-agile/
+      - Agile Teams: https://www.101ways.com/category/agile-teams/
 
 - week: Project Requirements
   notes:
       # - Requirements: 03/CSCC01-Requirements.pdf
       # - personas-exercise.pdf : 03/personas-exercice.pdf
       # - grademywork.pdf: 03/grademywork.pdf
+  readings:
+      - Agile User Stories: https://www.101ways.com/category/agile-user-stories/
+      - Writing Good User Stories: https://www.101ways.com/writing-good-user-stories/
 
 - week: Project Planning and Execution
   notes:
       # - userstories-exercise.pdf : 04/userstories-exercise.pdf
       # - grademywork.pdf: 03/grademywork.pdf
+  readings:
+      - Agile Planning: https://www.101ways.com/category/agile-planning/
+      - Agile Estimating: https://www.101ways.com/category/agile-estimating/
+      
 
 - week: Product Management
   notes:
