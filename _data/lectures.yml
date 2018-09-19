@@ -17,9 +17,11 @@
 
 - week: Project Requirements
   notes:
-      # - Requirements: 03/CSCC01-Requirements.pdf
-      # - personas-exercise.pdf : 03/personas-exercice.pdf
-      # - grademywork.pdf: 03/grademywork.pdf
+      - Requirements: 03/CSCC01-Requirements.pdf
+      - personas-exercise.pdf : 03/personas-exercice.pdf
+      - grademywork.pdf: 03/grademywork.pdf
+      - userstories-exercise.pdf : 03/userstories-exercise.pdf
+      - grademywork.pdf: 03/grademywork.pdf
   readings:
       - Agile User Stories: https://www.101ways.com/category/agile-user-stories/
       - Writing Good User Stories: https://www.101ways.com/writing-good-user-stories/
