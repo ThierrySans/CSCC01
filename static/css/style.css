@@ -6816,7 +6816,20 @@ ul {
   }
 }
 #header h1 {
-  font-size: 42px;
+  font-size: 20px;
+}
+@media screen and (min-width: 768px) {
+  #header h1 {
+    font-size: 42px;
+  }
+}
+#header p {
+  font-size: 14px;
+}
+@media screen and (min-width: 768px) {
+  #header p {
+    font-size: 21px;
+  }
 }
 #header #instructor {
   display: flex;

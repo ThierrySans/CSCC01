@@ -63,7 +63,20 @@ p, ul{
 #header{
     .jumbotron();
     h1{
-        font-size: 42px;
+        font-size: 20px;
+    }
+    @media screen and (min-width: @screen-sm-min) {
+        h1{
+            font-size: 42px;
+        }
+    }
+    p{
+        font-size: 14px;
+    }
+    @media screen and (min-width: @screen-sm-min) {
+        p{
+            font-size: 21px;
+        }
     }
     #instructor {
       display: flex;
