@@ -79,8 +79,12 @@ p, ul{
 }
 
 #syllabus {
-    max-width:800px;
-    padding-left:@jumbotron-padding*2;
+    max-width: 800px;
+
+    @media screen and (min-width: @screen-sm-min) {
+        padding-left: @jumbotron-padding * 2;
+        padding-right: @jumbotron-padding * 2;
+    }
 }
 
 #updates{
