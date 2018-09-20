@@ -6457,8 +6457,6 @@ button.close {
 .modal-header:after,
 .modal-footer:before,
 .modal-footer:after,
-#header #instructor:before,
-#header #instructor:after,
 #updates:before,
 #updates:after,
 .post:before,
@@ -6488,7 +6486,6 @@ button.close {
 .panel-body:after,
 .modal-header:after,
 .modal-footer:after,
-#header #instructor:after,
 #updates:after,
 .post:after,
 .grid .row:after,
@@ -6822,26 +6819,15 @@ ul {
   font-size: 42px;
 }
 #header #instructor {
-  margin-left: -15px;
-  margin-right: -15px;
+  display: flex;
   font-size: 21px;
 }
 #header #instructor div:first-child {
-  position: relative;
-  float: left;
-  width: 16.66666667%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
+  flex-grow: 1;
   font-weight: bold;
 }
 #header #instructor div:last-child {
-  position: relative;
-  float: left;
-  width: 83.33333333%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
+  flex-grow: 5;
 }
 #syllabus {
   max-width: 800px;

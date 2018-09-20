@@ -66,14 +66,15 @@ p, ul{
         font-size: 42px;
     }
     #instructor {
-      .make-row();
+      display: flex;
       font-size: @jumbotron-font-size;
+
       div:first-child{
-        .make-xs-column(2);
+        flex-grow: 1;
         font-weight:bold;
       }
       div:last-child {
-        .make-xs-column(10);
+        flex-grow: 5;
       }
     }
 }
