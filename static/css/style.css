@@ -6775,6 +6775,7 @@ ul {
 #content {
   margin-top: 50px;
   min-height: 200px;
+  overflow-x: scroll;
 }
 #header {
   padding-top: 30px;
@@ -6977,6 +6978,7 @@ ul {
   padding-top: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #777777;
+  min-width: 620px;
 }
 .week .week_id {
   position: relative;
