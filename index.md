@@ -86,24 +86,24 @@ The weighting of course work is set as:
 
 <div class="grid">
     <div class="hrow row">
-        <div class="hcolumn column4"></div>
-        <div class="column4">Weight</div>
+        <div class="hcolumn col-xs-8 col-sm-4"></div>
+        <div class="col-xs-4 col-sm-4">Weight</div>
     </div>
     <div class="row">
-        <div class="hcolumn column4">Labs (8 bests out of 10)</div>
-        <div class="column4">16%</div>
+        <div class="hcolumn col-xs-8 col-sm-4">Labs (8 bests out of 10)</div>
+        <div class="col-xs-4 col-sm-4">16%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column4">Project</div>
-        <div class="column4">34%</div>
+        <div class="hcolumn col-xs-8 col-sm-4">Project</div>
+        <div class="col-xs-4 col-sm-4">34%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column4">Midterm Exam</div>
-        <div class="column4">15%</div>
+        <div class="hcolumn col-xs-8 col-sm-4">Midterm Exam</div>
+        <div class="col-xs-4 col-sm-4">15%</div>
     </div>
     <div class="row">
-        <div class="hcolumn column4">Final Exam</div>
-        <div class="column4">35%</div>
+        <div class="hcolumn col-xs-8 col-sm-4">Final Exam</div>
+        <div class="col-xs-4 col-sm-4">35%</div>
     </div>
 </div>
 
