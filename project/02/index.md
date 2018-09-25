@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /work/06/
+permalink: /project/02/
 ---
 
 # Project Deliverable 2

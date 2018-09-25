@@ -23,7 +23,10 @@ permalink: /labs/
     <div class="date"></div>
 	<div class="topic">{{e.week}}</div>
     {% if e.handout %}
-    <div class="notes"><a href="{{e.handout}}">handout</a></div>
+    <div class="topic"><a href="{{e.handout}}">handout</a></div>
+    {% endif %}
+    {% if e.rubric %}
+    <div class="topic"><a href="{{e.rubric}}">rubric</a></div>
     {% endif %}
     {% endif %}
 </div>

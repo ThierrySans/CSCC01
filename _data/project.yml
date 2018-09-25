@@ -7,7 +7,6 @@
 - week: 
     
 - week: Team Setup
-  type: team
   handout: 01/
   # rubric:
   #     - deliverable: https://grademy.work/rubric?id=C01F17-D1
@@ -17,24 +16,21 @@
 - break: <span class="em">Reading Week</span>    
     
 - week: Project Requirement
-  type: team
   handout: 02/
   # rubric:
   #   - deliverable: https://grademy.work/rubric?id=C01F17-D2
   #   - interview: https://grademy.work/rubric?id=C01F17-I2
     
 - week: Project Planning
-  type: team
   # handout: 07/
   # rubric:
   #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
   #     - interview: https://grademy.work/rubric?id=C01F17-I3
 
 - week: 
-
     
 - week: Project Execution
-  type: team
+
   # handout: 09/
   # rubric:
   #     - deliverable: https://grademy.work/rubric?id=C01F17-D4
@@ -43,11 +39,10 @@
 - week: 
 
 - week: Product Validation
-  type: team
+
   # handout: 11/
   # rubric:
   #     - deliverable: https://grademy.work/rubric?id=C01F17-D5
   #     - interview: https://grademy.work/rubric?id=C01F17-I5
   
 - week: Final Deliverable
-  type: team

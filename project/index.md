@@ -6,8 +6,8 @@ permalink: /project/
 <div class="week hrow">
     <div class="week_id">Week</div>
     <div class="date">Deadline (5pm)</div>
-    <div class="topic">Team</div>
-    <div class="topic">Individual</div>
+    <div class="topic">Deliverable</div>
+    <div class="topic">Handout</div>
 	<div class="topic">Rubric</div>
 </div>
 
@@ -22,16 +22,9 @@ permalink: /project/
     {% assign week_id = week_id | plus: 1 %}
     <div class="week_id">{{week_id}}</div>
     <div class="date"></div>
-    {% if e.type == 'individual' %}
-         <div class="topic"></div>
-    {% endif %}
-    {% if e.handout %}
-    <div class="topic"><a href="{{e.handout}}">{{e.week}}</a></div>
-    {% else %}
     <div class="topic">{{e.week}}</div>
-    {% endif %}
-    {% if e.type == 'team' %}
-         <div class="topic"></div>
+    {% if e.handout %}
+    <div class="topic"><a href="{{e.handout}}">handout</a></div>
     {% endif %}
     {% if e.rubric %}
     <div class="topic">
