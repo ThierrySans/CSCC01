@@ -9,7 +9,6 @@
 - week: Team Work
   notes:
       - Team Work: 02/CSCC01-TeamWork.pdf
-      # - Project Introduction: 02/CSCC01-ProjectIntroduction.pdf
   readings:
       - SDLC Models Explained: https://medium.com/existek/sdlc-models-explained-agile-waterfall-v-shaped-iterative-spiral-e3f012f390c5
       - 10 Key Principles of Agile Development: https://www.101ways.com/category/10-key-principles-of-agile/
@@ -28,25 +27,19 @@
 
 - week: Project Planning and Execution
   notes:
-      # - userstories-exercise.pdf : 04/userstories-exercise.pdf
-      # - grademywork.pdf: 03/grademywork.pdf
+      - Software Management Process: 04/CSCC01-ProcessManagement.pdf
+      - tasks-exercise.pdf : 04/tasks-exercise.pdf
+      - planning-exercise.pdf : 04/planning-exercise.pdf
+      - execution-exercise.pdf : 06/execution-exercise.pdf
   readings:
       - Agile Planning: https://www.101ways.com/category/agile-planning/
       - Agile Estimating: https://www.101ways.com/category/agile-estimating/
-      
 
 - week: Product Management
-  notes:
-      # - Software Management Process: 05/CSCC01-ProcessManagement.pdf
-      # - tasks-exercise.pdf : 05/tasks-exercise.pdf
-      # - planning-exercise.pdf : 05/planning-exercise.pdf
 
 - break: <span class="em">Reading Week</span>     
 
 - week: Design Principles
-  notes:
-      # - Execution and Progress Tracking: 06/CSCC01-Execution.pdf
-      # - execution-exercise.pdf : 06/execution-exercise.pdf
 
 # - week: Midterm review
 #   notes:
