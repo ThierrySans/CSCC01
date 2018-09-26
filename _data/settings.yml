@@ -34,11 +34,11 @@ assistants:
     contact: brianyx.chen@mail.utoronto.ca
     hours: by appointment
   - name: Vino Tharmalenkam
-    role: TUT03
+    role: TUT04
     contact: vino.tharmalenkam@mail.utoronto.ca
     hours: by appointment
   - name: Saba Kiaei
-    role: TUT04
+    role: TUT03
     contact: saba.kiaei@mail.utoronto.ca
     hours: by appointment
   
