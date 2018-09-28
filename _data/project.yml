@@ -8,9 +8,9 @@
     
 - week: Team Setup
   handout: 01/
-  # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D1
-  #     - interview: https://grademy.work/rubric?id=C01F17-I1
+  rubric:
+      - deliverable: https://grademy.work/rubric?id=C01F18-D1
+      - interview: https://grademy.work/rubric?id=C01F18-I1
 
 
 - break: <span class="em">Reading Week</span>    
