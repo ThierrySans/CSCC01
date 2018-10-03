@@ -36,6 +36,11 @@
       - Agile Estimating: https://www.101ways.com/category/agile-estimating/
 
 - week: Product Management
+  notes:
+      - Software Management Process: 05/CSCC01-ProductManagement.pdf
+  readings:
+      - Branches in a Nutshell: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+      - Continuous integration, explained: https://www.atlassian.com/continuous-delivery/continuous-integration-intro
 
 - break: <span class="em">Reading Week</span>     
 
