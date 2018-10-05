@@ -19,7 +19,7 @@ After a sprint, you might have decided to change either the personas or the user
 
 Each sprint should have its own sprint backlog. For this deliverable, you should have at least two sprints fully documented. Each sprint backlog should contain: 
 
-- **tasks: ** each task should have a brief description, story points and dependencies if any. In addition, each task should come with a detailed description that contains all kind of useful information that will be used by the developer while working on this task. This detailed description is the result of the team brainstorming on what the result of this task should be. It could include technological choices, third-party tools and APIs, documentation, UI design sketch, UML specification or any description of the code structure, pseudo-code, testing strategies and so on and so forth.
+- **tasks:** each task should have a brief description, story points and dependencies if any. In addition, each task should come with a detailed description that contains all kind of useful information that will be used by the developer while working on this task. This detailed description is the result of the team brainstorming on what the result of this task should be. It could include technological choices, third-party tools and APIs, documentation, UI design sketch, UML specification or any description of the code structure, pseudo-code, testing strategies and so on and so forth.
 
 - **sprint plan:** the detailed task allocation plan of who will do what and when during that sprint. 
 
