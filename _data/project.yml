@@ -20,21 +20,14 @@
   # rubric:
   #   - deliverable: https://grademy.work/rubric?id=C01F17-D2
   #   - interview: https://grademy.work/rubric?id=C01F17-I2
-    
-- week: Project Planning
-  # handout: 07/
-  # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
-  #     - interview: https://grademy.work/rubric?id=C01F17-I3
 
 - week: 
     
-- week: Project Execution
-
-  # handout: 09/
+- week: Project Planning and Execution
+  handout: 03/
   # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D4
-  #     - interview: https://grademy.work/rubric?id=C01F17-I4
+  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
+  #     - interview: https://grademy.work/rubric?id=C01F17-I3
   
 - week: 
 
@@ -44,5 +37,7 @@
   # rubric:
   #     - deliverable: https://grademy.work/rubric?id=C01F17-D5
   #     - interview: https://grademy.work/rubric?id=C01F17-I5
+
+- week: 
   
 - week: Final Deliverable
