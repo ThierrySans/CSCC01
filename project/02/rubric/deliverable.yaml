@@ -1,0 +1,92 @@
+- rubric: Personas
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 30
+
+      - caption: "[20pts] The choice of personas"
+        type: SelectOne
+        options:
+              - poor, at least one important type of user has not been captured [0-5]
+              - average, the differences between the personas is not significant in some cases and/or most of the system requirements captured by these personas are either not important or irrelevant [6-15]
+              - good, the personas capture the most important types of users and their requirements [16-20]
+      
+      - caption: "[10pt] The presentation and the formatting of the personas is"
+        type: SelectOne
+        options:
+              - poor [0-3]
+              - average [4-7]
+              - good [8-10]
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: User stories
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 60
+      
+      - caption: "[20pts] The choice of user stories "
+        type: SelectOne
+        options:
+            - poor, many important features are missing [0-5]
+            - average, some important features are missing and/or many features are either not important or irrelevant [6-15]
+            - good, the user story capture the most important and relevant features [16-20]
+      - caption: "[15pts] The triaging of the user stories is"
+        type: SelectOne
+        options:
+           - poor, the sequence does not make sense [0-3]
+           - average, several important features have a lower priority than less important ones and/or several dependencies have not been correctly evaluated [4-11]
+           - good, the sequence is overall sound [12-15]
+      - caption: "[15pts] The cohesion between personas and user stories is"
+        type: SelectOne
+        options:
+              - poor, the user stories do not reflect at all the personas requirements [0-3]
+              - average, the user stories fail to capture some of the important personas requirements [4-11]
+              - good, the user stories captures overall the personas requirements [12-15]
+      - caption: "[10pt] The presentation and the formatting of the user stories is"
+        type: SelectOne
+        options:
+              - poor [0-3]
+              - average [4-7]
+              - good [8-10]   
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the deliverable
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 6
+        
+      - caption: Quality of the report
+        type: SelectAll
+        options:
+            - the report is clear and well presented
+            - the writing style is clear and consistent throughout the report
+            - the report does not contain excessive spelling and grammar typos
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the repository organization
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 4
+        
+      - caption: "On Github,"
+        type: SelectAll
+        options: 
+            - the team repository does not contain superfluous files
+            - directory and files are well organized
+            - the README file has been updated with the latest updates
+            - the commit logs have appropriate messages
+
+      - caption: Comments from the course staff
+        type: Comment
