@@ -45,6 +45,8 @@
 - break: <span class="em">Reading Week</span>     
 
 - week: Design Principles
+  readings:
+      - From STUPID to SOLID Code: https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/ 
 
 # - week: Midterm review
 #   notes:
