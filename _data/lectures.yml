@@ -45,6 +45,9 @@
 - break: <span class="em">Reading Week</span>     
 
 - week: Design Principles
+  notes:
+      - UML: 10/CSCC01-UML.pdf
+      - SOLID: 10/CSCC01-SOLID.pdf
   readings:
       - From STUPID to SOLID Code: https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/ 
 
@@ -61,9 +64,7 @@
       # - Code: 09/CSCC01-CodeReview.pdf
 
 - week: Design for Reuse
-  notes:
-      # - UML: 10/CSCC01-UML.pdf
-      # - SOLID: 10/CSCC01-SOLID.pdf
+
 
 - week: Refactoring
 
