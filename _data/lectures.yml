@@ -46,8 +46,8 @@
 
 - week: Design Principles
   notes:
-      - UML: 10/CSCC01-UML.pdf
-      - SOLID: 10/CSCC01-SOLID.pdf
+      - UML: 06/CSCC01-UML.pdf
+      - SOLID: 06/CSCC01-SOLID.pdf
   readings:
       - From STUPID to SOLID Code: https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/ 
 
