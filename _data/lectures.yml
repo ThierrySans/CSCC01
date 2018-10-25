@@ -51,17 +51,12 @@
   readings:
       - From STUPID to SOLID Code: https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/ 
 
-# - week: Midterm review
-#   notes:
-#       - F17 midterm: 07/CSCC01-F16-midterm.pdf
-
-- week: Design for Change
-  notes:
-      # - Verification and Validation: 08/CSCC01-VerificationValidation.pdf
-
 - week: Testing and Validation
   notes:
-      # - Code: 09/CSCC01-CodeReview.pdf
+      - Code: 07/CSCC01-CodeReview.pdf
+      - Verification and Validation: 07/CSCC01-VerificationValidation.pdf
+
+- week: Design for Change
 
 - week: Design for Reuse
 
