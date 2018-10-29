@@ -25,19 +25,22 @@
     
 - week: Project Planning and Execution
   handout: 03/
-  # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
-  #     - interview: https://grademy.work/rubric?id=C01F17-I3
+  rubric:
+      - deliverable: https://grademy.work/rubric?id=C01F18-D3
+      - interview: https://grademy.work/rubric?id=C01F18-I3
   
 - week: 
 
-- week: Product Validation
-
-  # handout: 11/
+- week: Verification and Code Review
+  handout: 04/
   # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D5
-  #     - interview: https://grademy.work/rubric?id=C01F17-I5
+  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
+  #     - interview: https://grademy.work/rubric?id=C01F17-I3
 
 - week: 
   
 - week: Final Deliverable
+  # handout: 04/
+  # rubric:
+  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
+  #     - interview: https://grademy.work/rubric?id=C01F17-I3
