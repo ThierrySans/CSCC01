@@ -42,7 +42,7 @@ Similarly to previous deliverables, feel free to choose how to organize and pres
 
 ## Submission
 
-Submit the **product backlog**, the **sprint Backlog(s)** and the **source code** by pushing them into your team’s GitHub repository by the due date and time. In addition, the source code of your product should also be on your team’s GitHub repository. Make sure to include instructions about how to build and execute your product. The TA might will likely take a look at your code and execute it to make sure it matches your product and sprint backlogs. 
+Submit the **product backlog**, the **sprint Backlog(s)** and the **source code** by pushing them into your team’s GitHub repository by the due date and time. In addition, the source code of your product should also be on your team’s GitHub repository. Make sure to include instructions about how to build and execute your product. The TA will look carefully at your code and execute it to make sure it matches your product and sprint backlogs. 
 
 Additionally, update your team’s GitHub repository README file to reflect the progress on your project. 
 

@@ -1,0 +1,131 @@
+- rubric: Product Backlog
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 10
+      
+      - caption: "how has the product backlog evolved throughout the different sprints"
+        type: SelectOne
+        options:
+            - it dit not change signficantly but there was no reason to do so [8-10]
+            - it dit not change signficantly although there were resons to do so [0-4]
+            - it did change but there is no justifcation for these changes [0-4]
+            - it did change but the justifcation is either vague or unsound [5-7]
+            - it did change and the justifcation is sound [8-10]
+
+      - caption: Comments from the course staff
+        type: Comment
+        
+- rubric: Sprint Backlog
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 50
+      
+      - caption: "[12pts] The last two sprints in the sprint backlog contains"
+        type: SelectAll
+        options:
+            - the sprint plan
+            - the sprint report
+            - the burndown chart
+            
+      - caption: "[8pts] In the sprint plan"
+        type: SelectAll
+        options:
+            - tasks are clearly allocated to individuals
+            - tasks are not allocated to several individials without a proper justifcation
+            - the story points add up
+            - the task dependencies are respected
+       
+      - caption: "[4pts] In the execution report"
+        type: SelectAll
+        options:
+            - the tasks matches the ones from the sprint plan
+            - individuals have reported when and how long they worked on their tasks
+            
+      - caption: "[6pts] In the burndown chart"
+        type: SelectAll
+        options:
+            - the units and values for the X and Y axes are correct
+            - the provisional burndown line matches the sprint plan
+            - the actual burndown line matches the execution report
+            
+      - caption: "[20pts] The git logs and the execution report"
+        type: SelectOne
+        options:
+          - do not match at all [0-5]
+          - match somehow but there are some inconsitencies [6-14]
+          - match well [15-20]
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: The product
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 30
+        
+      - caption: "[10pts] In the last two sprints, the use of the repository "
+        type: SelectOne
+        options:
+           - does not follow good software engineering practices at all (in term of branching and merging) [0-4] 
+           - follows somehow good software enginnering practices but it can be improved significantly [5-7]
+           - follows most of the good software enginnering practices [8-10]
+     
+      - caption: "[10pts] The product at its latest release"
+        type: SelectOne
+        options:
+           - is not executable because there is no instruction on how to build it or run it [0-2] 
+           - is not executable because it fails to build or run [0-2] 
+           - build but does not run well [3-6]
+           - build and runs well [7-10]
+
+      - caption: "[10pts] The actual product features and the product backlog"
+        type: SelectOne
+        options:
+          - do not match at all [0-4]
+          - match somehow but there are some inconsitencies [5-7]
+          - match well [8-10]
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the deliverable
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 6
+        
+      - caption: Quality of the report
+        type: SelectAll
+        options:
+            - the report is clear and well presented
+            - the writing style is clear and consistent throughout the report
+            - the report does not contain excessive spelling and grammar typos
+
+      - caption: Comments from the course staff
+        type: Comment
+
+
+- rubric: Quality of the repository organization
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 4
+        
+      - caption: "On Github,"
+        type: SelectAll
+        options: 
+            - the team repository does not contain superfluous files
+            - directory and files are well organized
+            - the README file has been updated with the latest updates
+            - the commit logs have appropriate messages
+
+      - caption: Comments from the course staff
+        type: Comment

@@ -6,8 +6,8 @@
       - caption: "Who is present to the meeting"
         type: SelectOne
         options:
-            - more than one person is inadequate
-            - one person is inadequate
+            - more than one person is missing
+            - one person is missing
             - everyone is present
 
       - caption: Comments from the course staff
