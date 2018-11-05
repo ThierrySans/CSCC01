@@ -28,11 +28,10 @@
 - week: Template Method Design Pattern
   handout: https://classroom.github.com/a/ayG9fBs2
     
-- week: Testing
+- week: Composite and Decorator Design Patterns
+  handout: https://classroom.github.com/a/fC65fon_
   
 - week: Design for Reuse
     
 - week: Refactoring
-
-  # handout: 11/
 
