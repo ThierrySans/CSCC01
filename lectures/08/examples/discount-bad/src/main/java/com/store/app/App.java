@@ -22,7 +22,7 @@ public class App {
 	cart.add(new Product("groceries", "pasta", "345634563456", 5.2));
 	cart.add(new Product("fresh", "tomoatoes", "345634563456", 7.55));
     
-    PriceCalculator pc = new PriceCalculator(cart, "SeasonalDiscount");
+    PriceCalculator pc = new PriceCalculator(cart, );
     
     System.out.println(pc);
   }

@@ -53,29 +53,20 @@
 
 - week: Testing and Validation
   notes:
-      - Code: 07/CSCC01-CodeReview.pdf
+      - Code Review: 07/CSCC01-CodeReview.pdf
       - Verification and Validation: 07/CSCC01-VerificationValidation.pdf
 
-- week: Design for Change
-
-- week: Design for Reuse
-
+- week: Design Patterns
+  notes:
+      - Code: 08/CSCC01-DesignPatterns.pdf
+    
+- week: Design Patterns
 
 - week: Refactoring
+  notes:
+      - Code Smells: 12/CSCC01-CodeSmells.pdf
+      - Refactoring: 12/CSCC01-Refactoring.pdf
 
 - week: DevOps
 
 - week: Project Presentations
-
-# - week: Design Patterns
-#   notes:
-#       - Design Patterns: 11/CSCC01-DesignPatterns.pdf
-    
-# - week: Refactoring
-#   notes:
-#       - Code Smells: 12/CSCC01-CodeSmells.pdf
-#       - Refactoring: 12/CSCC01-Refactoring.pdf
-      
-# - break: <span class="em">Final Exam </span>
-#   notes:
-#       - F17 final: final/CSCC01-F16-final.pdf

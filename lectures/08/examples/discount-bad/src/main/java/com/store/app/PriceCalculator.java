@@ -6,7 +6,7 @@ import com.store.product.Product;
 
 public class PriceCalculator {
 
-	Double total;
+	private Double total;
 	
 	private Double getTotalPrice(List<Product> cart) {
 		Double total = 0.0;
@@ -16,17 +16,8 @@ public class PriceCalculator {
 		return total;
 	}
 	
-	public PriceCalculator(List<Product> cart, String discout) {
-		switch (discout) {
-    	case "ConstantDiscount":
-    		this.total = 0.0;
-    	case "SeasonalDiscount":
-    		this.total = 0.0;
-    	case "HappyDayDiscount":
-    		this.total = 0.0;
-        default: 
-        	this.total = 0.0;
-		}
+	public PriceCalculator(List<Product> cart, DiscountInterface discout) {
+		
 	}
 
 }
