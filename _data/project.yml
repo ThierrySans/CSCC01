@@ -12,7 +12,6 @@
       - deliverable: https://grademy.work/rubric?id=C01F18-D1
       - interview: https://grademy.work/rubric?id=C01F18-I1
 
-
 - break: <span class="em">Reading Week</span>    
     
 - week: Project Requirement
@@ -33,9 +32,9 @@
 
 - week: Verification and Code Review
   handout: 04/
-  # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
-  #     - interview: https://grademy.work/rubric?id=C01F17-I3
+  rubric:
+      - deliverable: https://grademy.work/rubric?id=C01F17-D4
+      - interview: https://grademy.work/rubric?id=C01F17-I4
 
 - week: 
   
