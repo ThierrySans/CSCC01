@@ -1,0 +1,29 @@
+- rubric: Final Delivery
+  questions:
+        
+      - caption: How is the quality of the overall proudct backlog and sprint backlog (especially the last 4 sprints)? 
+        type: Points
+        max: 20
+     
+      - caption: How is the quality of the guidelines about how to build and run the product? 
+        type: Points
+        max: 10
+        
+      - caption: How is the quality of the verification process (including code review and testing)?   
+        type: Points
+        max: 20
+        
+      - caption: How is the quality of the code base in terms of readability, design and modularity? 
+        type: Points
+        max: 20
+
+      - caption: How is the quality of the final product, how significant are the product features?  
+        type: Points
+        max: 20
+        
+      - caption: Throughout the semester, how professional was the team while interacting with you during meetings and electronic communication?
+        type: Points
+        max: 10
+
+      - caption: Comments from the course staff
+        type: Comment

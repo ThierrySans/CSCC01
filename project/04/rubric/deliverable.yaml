@@ -1,0 +1,193 @@
+- rubric: Product Backlog
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 5
+      
+      - caption: "how has the product backlog evolved throughout the different sprints"
+        type: SelectOne
+        options:
+            - it dit not change signficantly but there was no reason to do so [0-1]
+            - it dit not change signficantly although there were resons to do so [0-1]
+            - it did change but there is no justifcation for these changes [0-1]
+            - it did change but the justifcation is either vague or unsound [2-3]
+            - it did change and the justifcation is sound [4-5]
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Sprint Backlog
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 25
+      
+      - caption: "[6pts] The last two sprints in the sprint backlog contains"
+        type: SelectAll
+        options:
+            - the sprint plan
+            - the sprint report
+            - the burndown chart
+            
+      - caption: "[4pts] In the sprint plan"
+        type: SelectAll
+        options:
+            - tasks are clearly allocated to individuals
+            - tasks are not allocated to several individials without a proper justifcation
+            - the story points add up
+            - the task dependencies are respected
+       
+      - caption: "[2pts] In the execution report"
+        type: SelectAll
+        options:
+            - the tasks matches the ones from the sprint plan
+            - individuals have reported when and how long they worked on their tasks
+            
+      - caption: "[3pts] In the burndown chart"
+        type: SelectAll
+        options:
+            - the units and values for the X and Y axes are correct
+            - the provisional burndown line matches the sprint plan
+            - the actual burndown line matches the execution report
+            
+      - caption: "[10pts] The git logs and the execution report"
+        type: SelectOne
+        options:
+          - do not match at all [0-3]
+          - match somehow but there are some inconsitencies [4-7]
+          - match well [8-10]
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: The product
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 20
+        
+      - caption: "[5pts] In the last two sprints, the use of the repository "
+        type: SelectOne
+        options:
+           - does not follow good software engineering practices at all (in term of branching and merging) [0-1] 
+           - follows somehow good software enginnering practices but it can be improved significantly [2-3]
+           - follows most of the good software enginnering practices [4-5]
+     
+      - caption: "[5pts] The product at its latest release"
+        type: SelectOne
+        options:
+           - is not executable because there is no instruction on how to build it or run it [0-1] 
+           - is not executable because it fails to build or run [0-1] 
+           - build but does not run well [2-3]
+           - build and runs well [4-5]
+
+      - caption: "[10pts] The actual product features and the product backlog"
+        type: SelectOne
+        options:
+          - do not match at all [0-4]
+          - match somehow but there are some inconsitencies [5-7]
+          - match well [8-10]
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Verification
+  questions:
+      - caption: Score for this rubric
+        type: Points
+        max: 24
+        
+      - caption: "[10pts] Overall, what is the quality of the unit tests"
+        type: SelectOne
+        options:
+             - inexisting or shallow [0-1]
+             - marginal as some parts of the code base have not been fully or well tested [2-4]
+             - adequate as most of the code base has been fully tested but tests could have been better structured  [5-7]
+             - excellent as the entire code base has been tested with well structured tests [8-10]
+    
+      - caption: "[2pts] The unit tests are"
+        type: SelectOne
+        options:
+             - not automated at all [0-1]
+             - somehow automated but not fully automated [2-3]
+             - fully automated [4-5]
+             
+      - caption: "[10pts] Overall, what is the quality of the acceptance tests"
+        type: SelectOne
+        options:
+             - inexisting or shallow [0-1]
+             - marginal as some parts of the code base have not been fully or well tested [2-4]
+             - adequate as most of the code base has been fully tested but tests could have been better structured [5-7]
+             - excellent as the entire code base has been tested with well structured tests [8-10]
+      
+      - caption: "[2pts] The acceptance tests are"
+        type: SelectOne
+        options:
+             - are unformal and not well defined [0-2]
+             - not automated but well defined so that anybody can do the tests [3-5]
+             - somehow or fully automated [3-5]
+          
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Code Review
+  questions:
+      - caption: Score for this rubric
+        type: Points
+        max: 16
+       
+      - caption: "[6pts] The code review includes"
+        type: SelectAll
+        options:
+             - a code review strategy adressing how the code review should be conducted
+             - a code review summary addressing the outcome of the code review
+             - a video that demonstrates the effective process used for the code review debriefing meeting
+        
+      - caption: "[10pts] Overall, what is the quality of the code review"
+        type: SelectOne
+        options:
+             - missing, either the startegy or the review debriefing is missing [0-1]
+             - marginal, the outcome of code review is very shallow [2-5]
+             - adequate, the code review is thorough but the recommendations could have been improved [6-8]
+             - excellent, the code review is thorough and the recommendations are good [9-10]
+        
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the deliverable
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 6
+        
+      - caption: Quality of the report
+        type: SelectAll
+        options:
+            - the report is clear and well presented
+            - the writing style is clear and consistent throughout the report
+            - the report does not contain excessive spelling and grammar typos
+
+      - caption: Comments from the course staff
+        type: Comment
+
+- rubric: Quality of the repository organization
+  questions:
+      
+      - caption: Score for this rubric
+        type: Points
+        max: 4
+        
+      - caption: "On Github,"
+        type: SelectAll
+        options: 
+            - the team repository does not contain superfluous files
+            - directory and files are well organized
+            - the README file has been updated with the latest updates
+            - the commit logs have appropriate messages
+
+      - caption: Comments from the course staff
+        type: Comment

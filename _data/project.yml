@@ -33,13 +33,13 @@
 - week: Verification and Code Review
   handout: 04/
   rubric:
-      - deliverable: https://grademy.work/rubric?id=C01F17-D4
-      - interview: https://grademy.work/rubric?id=C01F17-I4
+      - deliverable: https://grademy.work/rubric?id=C01F18-D4
+      - interview: https://grademy.work/rubric?id=C01F18-I4
 
 - week: 
   
 - week: Final Deliverable
-  # handout: 04/
-  # rubric:
-  #     - deliverable: https://grademy.work/rubric?id=C01F17-D3
-  #     - interview: https://grademy.work/rubric?id=C01F17-I3
+  handout: 05/
+  rubric:
+      - deliverable: https://grademy.work/rubric?id=C01F18-D5
+      - interview: https://grademy.work/rubric?id=C01F18-I5
