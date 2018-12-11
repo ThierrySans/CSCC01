@@ -1,0 +1,11 @@
+# Personas
+
+## name and role of personas #1 goes here
+
+description of personas #1 goes here
+
+## name and role of personas #2 goes here
+
+description of personas #2 goes here
+
+ect ...
