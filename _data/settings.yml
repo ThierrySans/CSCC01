@@ -3,7 +3,7 @@ ref: CSCC01
 title: Introduction to Software Engineering
 edition: Fall 2018
 description: This course is an introduction to software development methodologies with an emphasis on agile development methods appropriate for rapidly-moving projects. We will cover basic software development infrastructure, requirements elicitation and tracking, prototyping, basic project management, basic software modelling, introduction to software architecture, object-oriented design and design patterns, testing.
-website: https://thierrysans.github.io/CSCC01/
+website: https://thierrysans.me/CSCC01/
 github: https://github.com/ThierrySans/CSCC01
 piazza: https://piazza.com/mail.utoronto.ca/fall2018/cscc01
 feedback: https://goo.gl/forms/h1AE6TSd9scnLTK63
